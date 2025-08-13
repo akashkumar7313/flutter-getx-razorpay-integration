@@ -1,6 +1,6 @@
-# flutter_getx
+# flutter-getx-razorpay-integration
 
-Learning Flutter with GetX State Management
+A complete Flutter example showcasing Razorpay payment gateway integration using GetX state management, with smooth animations, custom success/failure screens, and clean architecture for scalable apps.
 
 ## Getting Started
 
